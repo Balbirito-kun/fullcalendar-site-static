@@ -30,3 +30,4 @@ console.log(resourceIds); // [ 'a' ]
 ```
 
 If the `resourceIds` property was used when specifying the event, `getResources` would return multiple resources.
+si asi es
